@@ -8,9 +8,9 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * <p>Java class for articulo complex type.
+ * <p>Clase Java para articulo complex type.
  * 
- * <p>The following schema fragment specifies the expected content contained within this class.
+ * <p>El siguiente fragmento de esquema especifica el contenido que se espera que haya en esta clase.
  * 
  * <pre>
  * &lt;complexType name="articulo">
@@ -47,7 +47,7 @@ public class Articulo {
     protected String titulo;
 
     /**
-     * Gets the value of the clasificacion property.
+     * Obtiene el valor de la propiedad clasificacion.
      * 
      * @return
      *     possible object is
@@ -59,7 +59,7 @@ public class Articulo {
     }
 
     /**
-     * Sets the value of the clasificacion property.
+     * Define el valor de la propiedad clasificacion.
      * 
      * @param value
      *     allowed object is
@@ -71,7 +71,7 @@ public class Articulo {
     }
 
     /**
-     * Gets the value of the genero property.
+     * Obtiene el valor de la propiedad genero.
      * 
      * @return
      *     possible object is
@@ -83,7 +83,7 @@ public class Articulo {
     }
 
     /**
-     * Sets the value of the genero property.
+     * Define el valor de la propiedad genero.
      * 
      * @param value
      *     allowed object is
@@ -95,7 +95,7 @@ public class Articulo {
     }
 
     /**
-     * Gets the value of the numCatalogo property.
+     * Obtiene el valor de la propiedad numCatalogo.
      * 
      * @return
      *     possible object is
@@ -107,7 +107,7 @@ public class Articulo {
     }
 
     /**
-     * Sets the value of the numCatalogo property.
+     * Define el valor de la propiedad numCatalogo.
      * 
      * @param value
      *     allowed object is
@@ -119,7 +119,7 @@ public class Articulo {
     }
 
     /**
-     * Gets the value of the titulo property.
+     * Obtiene el valor de la propiedad titulo.
      * 
      * @return
      *     possible object is
@@ -131,7 +131,7 @@ public class Articulo {
     }
 
     /**
-     * Sets the value of the titulo property.
+     * Define el valor de la propiedad titulo.
      * 
      * @param value
      *     allowed object is

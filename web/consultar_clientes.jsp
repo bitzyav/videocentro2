@@ -21,14 +21,11 @@
     </head>
 
     <body>
-        <% if (session.getAttribute("elUsuario") == null) {
-                response.sendRedirect("login.jsp");
-            }
-        %>
+        
         <nav>
             <label class="logo">VideoCentro</label>
             <ul>
-                <li><a href="index.html">Index</a></li>
+                <li><a href="index.jsp">Index</a></li>
                 <li><a class="active">Clientes</a></li>
                 <li><a href="agregar_cliente.jsp">Agregar cliente</a></li>
                 <li><a href="Servlet_Videojuegos">Juegos</a></li>

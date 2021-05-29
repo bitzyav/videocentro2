@@ -7,9 +7,9 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * <p>Java class for cliente complex type.
+ * <p>Clase Java para cliente complex type.
  * 
- * <p>The following schema fragment specifies the expected content contained within this class.
+ * <p>El siguiente fragmento de esquema especifica el contenido que se espera que haya en esta clase.
  * 
  * <pre>
  * &lt;complexType name="cliente">
@@ -43,7 +43,7 @@ public class Cliente {
     protected String telefono;
 
     /**
-     * Gets the value of the direccion property.
+     * Obtiene el valor de la propiedad direccion.
      * 
      * @return
      *     possible object is
@@ -55,7 +55,7 @@ public class Cliente {
     }
 
     /**
-     * Sets the value of the direccion property.
+     * Define el valor de la propiedad direccion.
      * 
      * @param value
      *     allowed object is
@@ -67,7 +67,7 @@ public class Cliente {
     }
 
     /**
-     * Gets the value of the nombre property.
+     * Obtiene el valor de la propiedad nombre.
      * 
      * @return
      *     possible object is
@@ -79,7 +79,7 @@ public class Cliente {
     }
 
     /**
-     * Sets the value of the nombre property.
+     * Define el valor de la propiedad nombre.
      * 
      * @param value
      *     allowed object is
@@ -91,7 +91,7 @@ public class Cliente {
     }
 
     /**
-     * Gets the value of the numCredencial property.
+     * Obtiene el valor de la propiedad numCredencial.
      * 
      * @return
      *     possible object is
@@ -103,7 +103,7 @@ public class Cliente {
     }
 
     /**
-     * Sets the value of the numCredencial property.
+     * Define el valor de la propiedad numCredencial.
      * 
      * @param value
      *     allowed object is
@@ -115,7 +115,7 @@ public class Cliente {
     }
 
     /**
-     * Gets the value of the telefono property.
+     * Obtiene el valor de la propiedad telefono.
      * 
      * @return
      *     possible object is
@@ -127,7 +127,7 @@ public class Cliente {
     }
 
     /**
-     * Sets the value of the telefono property.
+     * Define el valor de la propiedad telefono.
      * 
      * @param value
      *     allowed object is

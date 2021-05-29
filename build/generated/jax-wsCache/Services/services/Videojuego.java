@@ -7,9 +7,9 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * <p>Java class for videojuego complex type.
+ * <p>Clase Java para videojuego complex type.
  * 
- * <p>The following schema fragment specifies the expected content contained within this class.
+ * <p>El siguiente fragmento de esquema especifica el contenido que se espera que haya en esta clase.
  * 
  * <pre>
  * &lt;complexType name="videojuego">
@@ -42,7 +42,7 @@ public class Videojuego
     protected int version;
 
     /**
-     * Gets the value of the consola property.
+     * Obtiene el valor de la propiedad consola.
      * 
      * @return
      *     possible object is
@@ -54,7 +54,7 @@ public class Videojuego
     }
 
     /**
-     * Sets the value of the consola property.
+     * Define el valor de la propiedad consola.
      * 
      * @param value
      *     allowed object is
@@ -66,7 +66,7 @@ public class Videojuego
     }
 
     /**
-     * Gets the value of the fabricante property.
+     * Obtiene el valor de la propiedad fabricante.
      * 
      * @return
      *     possible object is
@@ -78,7 +78,7 @@ public class Videojuego
     }
 
     /**
-     * Sets the value of the fabricante property.
+     * Define el valor de la propiedad fabricante.
      * 
      * @param value
      *     allowed object is
@@ -90,7 +90,7 @@ public class Videojuego
     }
 
     /**
-     * Gets the value of the version property.
+     * Obtiene el valor de la propiedad version.
      * 
      */
     public int getVersion() {
@@ -98,7 +98,7 @@ public class Videojuego
     }
 
     /**
-     * Sets the value of the version property.
+     * Define el valor de la propiedad version.
      * 
      */
     public void setVersion(int value) {

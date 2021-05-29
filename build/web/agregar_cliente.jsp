@@ -21,7 +21,7 @@
         <nav>
             <label class="logo">VideoCentro</label>
             <ul>
-                <li><a href="index.html">Index</a></li>
+                <li><a href="index.jsp">Index</a></li>
                 <li><a href="Servlet_Clientes">Clientes</a></li>
                 <li><a class="active">Agregar cliente</a></li>
                 <li><a href="Servlet_Videojuegos">Juegos</a></li>
